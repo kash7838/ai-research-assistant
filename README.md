@@ -33,6 +33,7 @@ This assistant allows users to upload documents and query them conversationally 
 - Streamlit / Gradio
 
 ## 📂 Folder Structure
+```text
 ai-research-assistant/
 ├── data/
 ├── notebooks/
